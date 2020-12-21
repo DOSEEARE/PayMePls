@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "43915434964",
+    "project_id": "paymepls-7c4ad",
+    "storage_bucket": "paymepls-7c4ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43915434964:android:f3119818cfa313f5745441",
+        "android_client_info": {
+          "package_name": "rd.doseeare.paymepls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43915434964-h4k6m2pa2ikdiq8eo9bt6hl0tmug5fk0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rd.doseeare.paymepls",
+            "certificate_hash": "0075cbc0cf524ed6c3cb546ecc2ecf63915ea2fe"
+          }
+        },
+        {
+          "client_id": "43915434964-rjs7so0idbpaegj0eqcrsfvqa9hqgp71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8w4ErOuYxxO-79lzPzLR7VRqyUWUFVuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43915434964-rjs7so0idbpaegj0eqcrsfvqa9hqgp71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
